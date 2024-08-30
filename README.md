@@ -63,8 +63,11 @@ print(f"Predicted valeue: {pre}")
 
 ## Output:
 ![362697035-763022ca-616b-4141-942a-109ee33e0446](https://github.com/user-attachments/assets/6b501d9e-dcba-4fad-b41f-135de85e337c)
+
 ![362702072-83d89cce-8fa6-491b-9c3f-6c18f2c63c3c](https://github.com/user-attachments/assets/5f88d9eb-fadf-496f-b8e2-a87b1fa7fd88)
+
 ![362702263-0920d359-e997-46a2-844c-740ef89f149a](https://github.com/user-attachments/assets/39428105-77df-4102-92ca-8f1c92d8b325)
+
 ![362703268-eb585b7f-3b99-40c0-ab3a-9c6072a7ed39](https://github.com/user-attachments/assets/56269964-ad9e-45a8-936d-0c72e987e0fd)
 
 ## Result:
